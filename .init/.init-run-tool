@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/data-crossplot-explorer-111162-111171/csv_crossplotter_frontend"
+}
